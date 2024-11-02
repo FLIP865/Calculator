@@ -1,8 +1,9 @@
 # FLIP865
 |Как пользоваться Калькулятором|
 
-Клонируем git clone https://github.com/FLIP865/Calculator
-Переходим по директории cd /home/<username>/Calculator
+|Клонируем git clone https://github.com/FLIP865/Calculator|
+
+|Переходим по директории cd /home/Ваш username/Calculator|
 
 |Потом пишем sudo chmod 755 ./run|
 |Потом пишем ./run|
