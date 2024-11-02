@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+/bin/g++ /home/pc/Programming/Calculator/src/main.cpp -o main
