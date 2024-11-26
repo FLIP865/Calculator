@@ -241,7 +241,7 @@ int main() {
             if (isNumber(input))
             {
                 operation = std::stoi(input);
-                if (operation >= 1 or operation >= 6)
+                if (operation >= 1 and operation <= 6)
                 {
                     break;
                 }
